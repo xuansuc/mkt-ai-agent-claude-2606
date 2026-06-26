@@ -1,0 +1,12 @@
+{
+  "name": "sucnx-marketplace",
+  "owner": { "name": "sucnx" },
+  "plugins": [
+    {
+      "name": "sucnx",
+      "source": "./sucnx",
+      "description": "Marketing agent engine — 6-layer production line (L0–L5), reusable across brands. Type /brand-onboard to add a brand, then /content to produce on-brand deliverables.",
+      "version": "1.1.0"
+    }
+  ]
+}
